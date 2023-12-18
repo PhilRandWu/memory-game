@@ -7,6 +7,7 @@ edition = "2021"
 
 [dependencies]
 slint = "1.3.2"
+rand = "0.6.5"
 
 [dev-dependencies]
 rustfmt = "0.10.0"
